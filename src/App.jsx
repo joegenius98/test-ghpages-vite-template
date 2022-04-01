@@ -10,6 +10,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hello Vite + React + GH Pages!</p>
+        <p>  I am Joseph S. Lee and I am passionate about fundamental artificial intelligence research
+        and ways we can use it for positively impactful purposes. </p>
         <p>
           <button type="button" onClick={() => setCount((count) => count + 1)}>
             count is: {count}
